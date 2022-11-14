@@ -1,0 +1,65 @@
+@font-face {
+    font-family: "IndieFlower";
+    src: url("font/static/RobotoMono-Regular.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "IndieFlower", sans-serif;
+    color: #0d3b66;
+    background-color: #faf0ca;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 50px;
+}
+
+#charName {
+    padding: 30px;
+}
+
+#name {
+    font-size: 25px;
+}
+
+label {
+    font-size: 25px;
+}
+
+input {
+    border-radius: 15px;
+    ;
+}
+
+#buttons
+{
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 200px;
+    font-size: 23px;
+    height: 40px;
+    background-color: #f4d35e;
+    color: #0d3b66;
+    border-radius: 15px;
+    border-color: #f4d35e;
+    margin: 10px;
+}
+
+p {
+    font-size: 25px;
+    padding: 30px;
+}
