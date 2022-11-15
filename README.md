@@ -9,6 +9,6 @@
 </ul>
 <br>
 <br>
-
-
+<div align="center">
  <img src="site.png" width = 500px>
+ </div>
